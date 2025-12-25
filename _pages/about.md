@@ -11,11 +11,11 @@ I am currently a first-year PhD student at the [Institute of Vertebrate Paleonto
 
 Education
 ======
-**PhD Student**, Institute of Vertebrate Paleontology and Paleoanthropology (IVPP),  
-Chinese Academy of Sciences, Beijing, China  
-*Molecular Paleontology Laboratory*  
-Sep 2025 – Present
+- **PhD Student**, Institute of Vertebrate Paleontology and Paleoanthropology (IVPP),  
+  Chinese Academy of Sciences, Beijing, China  
+  *Molecular Paleontology Laboratory*  
+  Sep 2025 – Present
 
-**Bachelor of Science**, School of Life Sciences,  
-Peking University, Beijing, China  
-Mar 2021 – Jul 2025
+- **Bachelor of Science**, School of Life Sciences,  
+  Peking University, Beijing, China  
+  Mar 2021 – Jul 2025
