@@ -6,12 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://github.com/user-attachments/assets/921f0c72-df6a-4a16-8f6d-0e480cb80ae5"
-     alt="profile photo"
-     width="180"
-     style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<div style="overflow: auto;">
+  <img src="https://github.com/user-attachments/assets/921f0c72-df6a-4a16-8f6d-0e480cb80ae5"
+       alt="profile photo"
+       width="180"
+       style="float: left; margin-right: 20px; margin-bottom: 10px;">
 
-I am currently a first-year PhD student at the [Institute of Vertebrate Paleontology and Paleoanthropology (IVPP)](https://ivpp.cas.cn/), Chinese Academy of Sciences, under the supervision of Dr. Qiaomei Fu. I obtained my Bachelor’s degree from the School of Life Sciences, Peking University. My research interests focus on **paleogenomics** in East Asia, with particular emphasis on population history and signals of natural selection in ancient East Asian populations.
+  <p>
+    I am currently a first-year PhD student at the Institute of Vertebrate Paleontology and
+    Paleoanthropology (IVPP), Chinese Academy of Sciences, under the supervision of
+    Dr. Qiaomei Fu. I obtained my Bachelor’s degree from the School of Life Sciences,
+    Peking University. My research interests focus on paleogenomics in East Asia,
+    with particular emphasis on population history and signals of natural selection
+    in ancient East Asian populations.
+  </p>
+</div>
 
 Education
 ======
