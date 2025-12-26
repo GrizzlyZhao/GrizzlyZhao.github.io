@@ -6,20 +6,64 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">
+  You can also find my articles on
+  <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- LiuInnovation2025 -->
+<style>
+/* Publications list */
+.pub-list {
+  list-style-type: disc;
+  margin-left: 1.2em;
+}
 
-- <span class="pub-title">
-  <a href="https://www.sciencedirect.com/science/article/pii/S2666675825003911">
-  Family-based community organization in Neolithic Northern China from 8,800 to 7,500 years ago
-  </a>
-  </span><br>
-  Nov. 2025<br>
-  Liu, T., Zhao, Z., Guo, M., … <strong>Zhao, M.</strong>, … Fu Q.<sup>*</sup><br>
-  <em>The Innovation</em>, Article 101188.
+.pub-list li {
+  margin-bottom: 1.2em;
+  line-height: 1.45;
+}
 
-  
+/* Title */
+.pub-title {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+/* Authors */
+.pub-authors {
+  margin-top: 0.2em;
+}
+
+/* Journal */
+.pub-journal {
+  font-style: italic;
+}
+</style>
+
+<ul class="pub-list">
+
+  <!-- LiuInnovation2025 -->
+  <li>
+    <div class="pub-title">
+      <a href="https://www.sciencedirect.com/science/article/pii/S2666675825003911">
+        Family-based community organization in Neolithic Northern China from 8,800 to 7,500 years ago
+      </a>
+    </div>
+
+    <div class="pub-authors">
+      Liu, T., Zhao, Z., Guo, M., … <strong>Zhao, M.</strong>, … Fu Q.<sup>*</sup>
+    </div>
+
+    <div>
+      Nov. 2025
+    </div>
+
+    <div class="pub-journal">
+      The Innovation, Article 101188.
+    </div>
+  </li>
+
+</ul>
