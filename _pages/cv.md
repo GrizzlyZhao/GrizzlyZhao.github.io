@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a detailed resume in PDF, see in 
+For a detailed resume in PDF, see in [CV.pdf](/files/resume_masixuan_zhao.pdf)
 
 Education
 ======
